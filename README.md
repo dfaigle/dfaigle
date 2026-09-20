@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Daniel
 
-<!--
-**dfaigle/dfaigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate (B.Sc., Hochschule Heilbronn) working on backend systems, IoT and quantum software tooling. Based in Stuttgart, Germany.
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachelor's thesis in claboration with **Fraunhofer IPA** on a framework agnostic abstraction layer for quantum circuit execution, with upstream contributions to [qc-executor](https://github.com/flaqship/qc-executor).
+
+### Selected work
+
+| Project | What it is |
+| --- | --- |
+| [qc-executor](https://github.com/flaqship/qc-executor/tree/ba_daniel) | Open source abstraction layer for running quantum circuits across frameworks |
+| [benchmarking-system](https://github.com/dfaigle/benchmarking-system) | Benchmark harness measuring the runtime overhead of that abstraction layer |
+| [bachelor-thesis](https://github.com/dfaigle/dfaigle-bachelor-Thesis) | Thesis text, methodology and results |
+
+### Background
+
+Automotive systems integration and vehicle cloud at **Porsche AG**, IoT research at **Dalhousie University** through the Mitacs Globalink programme, full stack development at **KEB Automation**, R&D hardware at **Nokia**.
+
+
+
+### Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dfaigle)
+
