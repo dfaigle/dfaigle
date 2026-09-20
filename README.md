@@ -6,7 +6,7 @@ Software Engineering graduate (B.Sc., Hochschule Heilbronn) working on backend s
 
 Bachelor's thesis in claboration with **Fraunhofer IPA** on a framework agnostic abstraction layer for quantum circuit execution, with upstream contributions to [qc-executor](https://github.com/flaqship/qc-executor).
 
-### Selected work
+### Bachelor's Thesis
 
 | Project | What it is |
 | --- | --- |
@@ -16,7 +16,7 @@ Bachelor's thesis in claboration with **Fraunhofer IPA** on a framework agnostic
 
 ### Background
 
-Automotive systems integration and vehicle cloud at **Porsche AG**, IoT research at **Dalhousie University** through the Mitacs Globalink programme, full stack development at **KEB Automation**, R&D hardware at **Nokia**.
+Systems integration and vehicle cloud at **Porsche AG**, IoT research at **Dalhousie University** through the Mitacs Globalink programme, full stack development at **KEB Automation**, R&D hardware at **Nokia**.
 
 
 
