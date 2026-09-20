@@ -2,10 +2,6 @@
 
 Software Engineering graduate (B.Sc., Hochschule Heilbronn) working on backend systems, IoT and quantum software tooling. Based in Stuttgart, Germany.
 
-### Currently
-
-Bachelor's thesis in claboration with **Fraunhofer IPA** on a framework agnostic abstraction layer for quantum circuit execution, with upstream contributions to [qc-executor](https://github.com/flaqship/qc-executor).
-
 ### Bachelor's Thesis
 
 | Project | What it is |
@@ -17,10 +13,6 @@ Bachelor's thesis in claboration with **Fraunhofer IPA** on a framework agnostic
 ### Background
 
 Systems integration and vehicle cloud at **Porsche AG**, IoT research at **Dalhousie University** through the Mitacs Globalink programme, full stack development at **KEB Automation**, R&D hardware at **Nokia**.
-
-
-
-### Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dfaigle)
 
