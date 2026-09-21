@@ -10,7 +10,7 @@ Systems integration and vehicle cloud at **Porsche AG**, IoT research at **Dalho
 
 | Project | What it is |
 | --- | --- |
-| [qc-executor](https://github.com/flaqship/qc-executor/tree/ba_daniel) | Open source abstraction layer for running quantum circuits across frameworks |
+| [qc-executor](https://github.com/flaqship/qc-executor/tree/ba_daniel) | Integrate abstraction layer for running quantum circuits across frameworks in Frauenhofer Open Source projekt "qc_executor" |
 | [benchmarking-system](https://github.com/dfaigle/benchmarking-system) | Benchmark harness measuring the runtime overhead of that abstraction layer |
 | [bachelor-thesis](https://github.com/dfaigle/dfaigle-bachelor-Thesis) | Thesis text, methodology and results |
 
