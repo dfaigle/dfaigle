@@ -6,13 +6,7 @@ Software Engineering graduate (B.Sc., Hochschule Heilbronn) working on backend s
 
 Systems integration and vehicle cloud at **Porsche AG**, IoT research at **Dalhousie University** through the Mitacs Globalink programme, full stack development at **KEB Automation**, R&D hardware at **Nokia**.
 
-### Bachelor's Thesis
-
-| Project | What it is |
-| --- | --- |
-| [qc-executor](https://github.com/flaqship/qc-executor/tree/ba_daniel) | Integrate abstraction layer for running quantum circuits across frameworks in Frauenhofer Open Source projekt "qc_executor" |
-| [benchmarking-system](https://github.com/dfaigle/benchmarking-system) | Benchmark harness measuring the runtime overhead of that abstraction layer |
-| [bachelor-thesis](https://github.com/dfaigle/dfaigle-bachelor-Thesis) | Thesis text, methodology and results |
+[qc-executor](https://github.com/flaqship/qc-executor/tree/ba_daniel) | Integrated abstraction layer for running quantum circuits across frameworks in Frauenhofer Open Source projekt "qc_executor" |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dfaigle)
 
